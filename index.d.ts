@@ -45,3 +45,5 @@ declare class Strategy extends PassportStrategy {
 
     name: string;
 }
+
+export = Strategy;
